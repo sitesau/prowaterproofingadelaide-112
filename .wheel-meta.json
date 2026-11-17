@@ -1,0 +1,22 @@
+{
+  "wheel_id": 916,
+  "structure": "umbrella",
+  "slug": "prowaterproofingadelaide-112",
+  "project": "waterproofing-adelaide-red-flags-1914273e15a38de3ba53d60e98ca2d",
+  "parent_t1_ref": "prowaterproofingadelaide-155",
+  "node_role": "feeder",
+  "money_target": "prowaterproofingadelaide.com.au",
+  "primary_kw": "waterproofing adelaide red flags",
+  "intended_url": "http://waterproofing-adelaide-red-flags-1914273e15a38de3ba53d60e98ca2d.s3-website-ap-southeast-2.amazonaws.com/index.html",
+  "tier": "T2",
+  "writeback_nonce": "44e3a0b3fbe9497e",
+  "links": [
+    {
+      "target_url": "https://sites-e470-2.web.app/waterproofing-adelaide-what-to-expect-ec490bf6afa40d9295cf7bfb9/",
+      "anchor": "waterproofing adelaide what to expect explained",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
